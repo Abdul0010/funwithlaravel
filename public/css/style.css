@@ -1,0 +1,14 @@
+body{
+font-family: Helvetic,Arial,sans-serif;
+    font-size: 15px;
+    background: blue;
+}
+.container{
+width: 60%;
+    max-width: 300px;
+    margin: 0 auto;
+    background: white;
+    border: 1px solid #cccccc;
+    padding: 20px;
+    border-shadow:0 2px 4px rgba(0,0,0,0.1);
+}
