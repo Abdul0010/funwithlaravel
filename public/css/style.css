@@ -1,7 +1,7 @@
 body{
 font-family: Helvetic,Arial,sans-serif;
     font-size: 15px;
-    background: blue;
+	background-size: cover
 }
 .container{
 width: 60%;
@@ -11,4 +11,17 @@ width: 60%;
     border: 1px solid #cccccc;
     padding: 20px;
     border-shadow:0 2px 4px rgba(0,0,0,0.1);
+}
+.b {
+	background-color: black;
+	color: black
+	    background: blue;
+
+}
+p,h1{
+color:#edeeee;
+	font-family:'Source Sans Pro','Helvetica Neue';
+	font-size: 2.6rem;
+	font-weight: 200;
+	letter-spacing: -.01em;
 }
